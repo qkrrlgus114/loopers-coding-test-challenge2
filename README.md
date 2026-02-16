@@ -56,6 +56,10 @@ git checkout -b solution/MMDD
 
 **반드시 본인 GitHub 아이디 폴더** 안에 풀이 파일을 저장합니다.
 
+없으면 생성하면 됩니다.
+ex) qkrrlgus9797
+
+
 ```
 {본인깃헙아이디}/
   └── 1234.py (또는 .java, .cpp 등 자유)
