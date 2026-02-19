@@ -14,7 +14,7 @@ let count = 0;
 
 for (let i = 0; i < strLength; i++) {
   for (let j = i + 3; j <= strLength; j++) {
-    const splitedStr = S.slice(i, j);
+    const splitedStr = str.slice(i, j);
 
     const countA = splitedStr.split("A").length - 1;
     const countN = splitedStr.split("N").length - 1;
